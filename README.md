@@ -49,7 +49,7 @@ move forward 10
 2. **Run the program** from the command line, specifying the path to the command file:
 
    ```bash
-   python simulate_rover.py path/to/instructions.txt
+   python simulate_rover.py instructions.txt
    ```
 
 ### Example Output

@@ -1,7 +1,7 @@
 import argparse
 import math
 import turtle
-
+88
 # Parse command-line argument for file path
 parser = argparse.ArgumentParser()
 parser.add_argument('file_PATH', type=str)
@@ -10,11 +10,11 @@ content = file_PATH.file_PATH
 
 # Set up Turtle screen and turtle object
 display = turtle.Screen()
-display.bgcolor('olive')
+display.bgcolor('purple')
 scirroco = turtle.Turtle()
 scirroco.pensize(9)
 scirroco.shape('turtle')
-scirroco.color('white')
+scirroco.color('black')
 
 
 def print_commands(x_cord, y_cord, direction, instruction, instructions_count):
