@@ -1,4 +1,4 @@
-Turn 90 Mars degrees clockwise
+Turn 90 degrees clockwise
 Move 10 meters forward
 Move 5 meters forward
 Turn 90 degrees counterclockwise
